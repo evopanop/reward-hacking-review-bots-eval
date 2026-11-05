@@ -1,6 +1,6 @@
 # Do reviewer agents earn their PASS? A labeled audit of 255 gate verdicts (draft v2)
 
-Status: ready to publish. Blind kappa stays 0.724. A documented post-hoc adjudication of three CI-pending cards raises agreement to 0.960 (kappa 0.798). The v1 draft is kept as a methods archive.
+Status: published. Blind kappa stays 0.724. A documented post-hoc adjudication of three CI-pending cards raises agreement to 0.960 (kappa 0.798). The v1 draft is kept as a methods archive.
 
 ## Headline
 - Two independent raters agree on how well each verdict is grounded. Cohen's kappa is 0.724 with raw agreement of 0.948, on 252 verdicts (3 parse errors excluded). The second rater was a blind model pass that never saw the first rater's labels.
