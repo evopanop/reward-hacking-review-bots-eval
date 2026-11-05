@@ -1,0 +1,39 @@
+{
+ "github_review": {
+  "n": 176,
+  "with_claimed_sha": 173,
+  "commit_match": 171,
+  "commit_mismatch": 2,
+  "cite_artifacts": 4,
+  "missing_artifact_verdicts": 0,
+  "pass_verdicts": 147,
+  "pass_on_pr_with_followup_fix": 7
+ },
+ "box_note": {
+  "n": 79,
+  "with_claimed_sha": 45,
+  "commit_match": 45,
+  "commit_mismatch": 0,
+  "cite_artifacts": 37,
+  "missing_artifact_verdicts": 0,
+  "pass_verdicts": 41,
+  "pass_on_pr_with_followup_fix": 3
+ },
+ "all": {
+  "n": 255,
+  "with_claimed_sha": 218,
+  "commit_match": 216,
+  "commit_mismatch": 2,
+  "cite_artifacts": 41,
+  "missing_artifact_verdicts": 0,
+  "pass_verdicts": 188,
+  "pass_on_pr_with_followup_fix": 10
+ },
+ "timestamps": {
+  "with_request_and_verdict": 95,
+  "verdict_before_request": 3,
+  "median_minutes": 2.0,
+  "le_2_min": 50,
+  "claimed_verdict_more_than_10min_off_gh_submit": 6
+ }
+}

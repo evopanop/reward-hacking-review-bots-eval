@@ -1,0 +1,8 @@
+{
+ "cards": 255,
+ "truncation_fixed": 255,
+ "missing": 0,
+ "leaks": 0,
+ "max_len": 29168,
+ "v1_body_max": 520
+}

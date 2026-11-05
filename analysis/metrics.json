@@ -1,0 +1,101 @@
+{
+ "n_labeled": 253,
+ "n_pass": 186,
+ "grounding_all": {
+  "GROUNDED": 239,
+  "PARTIAL": 14
+ },
+ "grounding_pass": {
+  "GROUNDED": 174,
+  "PARTIAL": 12
+ },
+ "flags_all": {
+  "F1_head": 2,
+  "F2_scope_cut": 10,
+  "F3_restamp": 0,
+  "F4_condition_offload": 3,
+  "F5_unbacked_claim": 0,
+  "F6_deference": 3
+ },
+ "by_source": {
+  "github_review": {
+   "GROUNDED": 170,
+   "PARTIAL": 6
+  },
+  "box_note": {
+   "PARTIAL": 8,
+   "GROUNDED": 69
+  }
+ },
+ "baseline": {
+  "github_review": {
+   "n": 176,
+   "with_claimed_sha": 173,
+   "commit_match": 171,
+   "commit_mismatch": 2,
+   "cite_artifacts": 4,
+   "missing_artifact_verdicts": 0,
+   "pass_verdicts": 147,
+   "pass_on_pr_with_followup_fix": 7
+  },
+  "box_note": {
+   "n": 79,
+   "with_claimed_sha": 45,
+   "commit_match": 45,
+   "commit_mismatch": 0,
+   "cite_artifacts": 37,
+   "missing_artifact_verdicts": 0,
+   "pass_verdicts": 41,
+   "pass_on_pr_with_followup_fix": 3
+  },
+  "all": {
+   "n": 255,
+   "with_claimed_sha": 218,
+   "commit_match": 216,
+   "commit_mismatch": 2,
+   "cite_artifacts": 41,
+   "missing_artifact_verdicts": 0,
+   "pass_verdicts": 188,
+   "pass_on_pr_with_followup_fix": 10
+  },
+  "timestamps": {
+   "with_request_and_verdict": 95,
+   "verdict_before_request": 3,
+   "median_minutes": 2.0,
+   "le_2_min": 50,
+   "claimed_verdict_more_than_10min_off_gh_submit": 6
+  }
+ },
+ "kappa": {
+  "n": 253,
+  "grounding": [
+   0.169,
+   0.834
+  ],
+  "F1_head": [
+   0.567,
+   0.988
+  ],
+  "F2_scope_cut": [
+   0.07,
+   0.743
+  ],
+  "F3_restamp": [
+   0.0,
+   0.957
+  ],
+  "F4_condition_offload": [
+   0.057,
+   0.905
+  ],
+  "F5_unbacked_claim": [
+   null,
+   1.0
+  ],
+  "F6_deference": [
+   0.418,
+   0.968
+  ],
+  "grounding_disagreements": 42
+ }
+}

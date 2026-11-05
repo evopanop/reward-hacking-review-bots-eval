@@ -1,0 +1,37 @@
+{"vid": "gh-5550699027", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5600493075", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5606713678", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5595737905", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5600493702", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5595761365", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5598235438", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5596919540", "r1": "PARTIAL", "r2": "UNGROUNDED", "r1_note": "head not named, delta described from prior head only"}
+{"vid": "gh-5596889651", "r1": "PARTIAL", "r2": "UNGROUNDED", "r1_note": "head not named, delta described from prior head only"}
+{"vid": "gh-5600494048", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5597556677", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5595737715", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5600494848", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5600495206", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5601876282", "r1": "GROUNDED", "r2": "UNGROUNDED", "r1_note": ""}
+{"vid": "gh-5601928603", "r1": "GROUNDED", "r2": "UNGROUNDED", "r1_note": ""}
+{"vid": "gh-5725895874", "r1": "PARTIAL", "r2": "GROUNDED", "r1_note": "same CRO/BA gate offloaded to a merge condition"}
+{"vid": "gh-5726187359", "r1": "PARTIAL", "r2": "GROUNDED", "r1_note": "same CRO/BA gate offloaded to a merge condition"}
+{"vid": "note-MOTION_POSTMERGE_78_LIVE.md:11", "r1": "PARTIAL", "r2": "UNGROUNDED", "r1_note": "cross-browser, SR, Lighthouse, GA4 not run, disclosed"}
+{"vid": "note-pr131/copywriter-batch.md:9", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "note-pr131/copywriter-batch.md:19", "r1": "GROUNDED", "r2": "UNGROUNDED", "r1_note": ""}
+{"vid": "note-rebase-478b1b1/REPORT-125-126-128.md:21", "r1": "GROUNDED", "r2": "UNGROUNDED", "r1_note": ""}
+{"vid": "note-rebase-478b1b1/REPORT-125-126-128.md:30", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "note-web-design-visual-review-PR106-pricing-H.md:356", "r1": "PARTIAL", "r2": "UNGROUNDED", "r1_note": "could not view regenerated shots"}
+{"vid": "note-web-design-visual-review-PR111-services.md:299", "r1": "GROUNDED", "r2": "UNGROUNDED", "r1_note": ""}
+{"vid": "note-web-design-visual-review-PR112-header-nav.md:8", "r1": "GROUNDED", "r2": "UNGROUNDED", "r1_note": ""}
+{"vid": "note-web-design-visual-review-PR122-font-fallback.md:544", "r1": "PARTIAL", "r2": "UNGROUNDED", "r1_note": "narrow re-gate; known 36.7px gap accepted post-launch by ruling"}
+{"vid": "note-web-design-visual-review-PR122-font-fallback.md:570", "r1": "PARTIAL", "r2": "GROUNDED", "r1_note": "gap accepted by ruling; text-spacing scroll not compared with main"}
+{"vid": "note-web-design-visual-review-PR122-font-fallback.md:580", "r1": "GROUNDED", "r2": "UNGROUNDED", "r1_note": ""}
+{"vid": "note-web-design-visual-review-PR123-blog-listing.md:209", "r1": "PARTIAL", "r2": "UNGROUNDED", "r1_note": "hold deferred post-launch under the directive"}
+{"vid": "note-web-design-visual-review-PR64.md:185", "r1": "GROUNDED", "r2": "UNGROUNDED", "r1_note": ""}
+{"vid": "note-web-design-visual-review-PR66.md:165", "r1": "GROUNDED", "r2": "UNGROUNDED", "r1_note": ""}
+{"vid": "note-web-design-visual-review-PR67.md:149", "r1": "GROUNDED", "r2": "UNGROUNDED", "r1_note": ""}
+{"vid": "note-web-design-visual-review-PR68-home.md:197", "r1": "GROUNDED", "r2": "UNGROUNDED", "r1_note": ""}
+{"vid": "note-web-design-visual-review-PR70-footer.md:6", "r1": "GROUNDED", "r2": "UNGROUNDED", "r1_note": ""}
+{"vid": "note-web-design-visual-review-PR76.md:8", "r1": "GROUNDED", "r2": "UNGROUNDED", "r1_note": ""}
+{"vid": "note-web-design-visual-review-PR78-motion.md:10", "r1": "GROUNDED", "r2": "UNGROUNDED", "r1_note": ""}

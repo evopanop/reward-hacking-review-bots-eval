@@ -1,0 +1,42 @@
+{"vid": "gh-5536760638", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5561411438", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5563589329", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5563716917", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5563797068", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5563882765", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5564350742", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5600493075", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5607795810", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5595737905", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5600493702", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5600588763", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5564788071", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5564859665", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5595761365", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5596919540", "r1": "PARTIAL", "r2": "GROUNDED", "r1_note": "head not named, delta described from prior head only"}
+{"vid": "gh-5596521961", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5596889651", "r1": "PARTIAL", "r2": "UNGROUNDED", "r1_note": "head not named, delta described from prior head only"}
+{"vid": "gh-5565162795", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5565378497", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5600494048", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5601559597", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5565323614", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5597556677", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5595106681", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5595737715", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5600494848", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5600495206", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5601928603", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5607897944", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5725772630", "r1": "PARTIAL", "r2": "GROUNDED", "r1_note": "approved while CRO/BA PASS on tracking still open; earlier standing rule held approval for this"}
+{"vid": "gh-5725881887", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "gh-5726187359", "r1": "PARTIAL", "r2": "GROUNDED", "r1_note": "same CRO/BA gate offloaded to a merge condition"}
+{"vid": "note-fontfix-b9e4a73/PR123-33aaa59.md:1", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "note-pr131/copywriter-batch.md:19", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "note-pr131/copywriter-batch.md:23", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "note-web-design-visual-review-PR106-pricing-H.md:356", "r1": "PARTIAL", "r2": "GROUNDED", "r1_note": "could not view regenerated shots"}
+{"vid": "note-web-design-visual-review-PR122-font-fallback.md:544", "r1": "PARTIAL", "r2": "GROUNDED", "r1_note": "narrow re-gate; known 36.7px gap accepted post-launch by ruling"}
+{"vid": "note-web-design-visual-review-PR122-font-fallback.md:570", "r1": "PARTIAL", "r2": "GROUNDED", "r1_note": "gap accepted by ruling; text-spacing scroll not compared with main"}
+{"vid": "note-web-design-visual-review-PR125-footer.md:188", "r1": "PARTIAL", "r2": "GROUNDED", "r1_note": "speed rules: checked only what changed on a visual gate"}
+{"vid": "note-web-design-visual-review-PR63-PR65.md:263", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}
+{"vid": "note-web-design-visual-review-PR94.md:5", "r1": "GROUNDED", "r2": "PARTIAL", "r1_note": ""}

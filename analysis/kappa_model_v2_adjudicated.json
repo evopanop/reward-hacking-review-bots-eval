@@ -1,0 +1,69 @@
+{
+  "blind_pre_adjudication": {
+    "grounding": {
+      "kappa": 0.724,
+      "agreement": 0.948
+    },
+    "n_used": 252,
+    "note": "Frozen blind number from analysis/kappa_model_v2.json"
+  },
+  "post_adjudication": {
+    "grounding": {
+      "kappa": 0.798,
+      "agreement": 0.96
+    },
+    "n_used": 252,
+    "rater1_dist": {
+      "GROUNDED": 224,
+      "PARTIAL": 27,
+      "UNGROUNDED": 1
+    },
+    "rater1_passes": {
+      "GROUNDED": 160,
+      "PARTIAL": 25,
+      "UNGROUNDED": 1
+    },
+    "grounding_disagreements": 10,
+    "confusion": {
+      "GROUNDED->GROUNDED": 221,
+      "PARTIAL->PARTIAL": 20,
+      "GROUNDED->PARTIAL": 3,
+      "PARTIAL->UNGROUNDED": 3,
+      "PARTIAL->GROUNDED": 4,
+      "UNGROUNDED->UNGROUNDED": 1
+    },
+    "flags": {
+      "F1_head": {
+        "kappa": 0.887,
+        "agreement": 0.996
+      },
+      "F2_scope_cut": {
+        "kappa": 0.103,
+        "agreement": 0.909
+      },
+      "F3_restamp": {
+        "kappa": null,
+        "agreement": 1.0
+      },
+      "F4_condition_offload": {
+        "kappa": 0.19,
+        "agreement": 0.94
+      },
+      "F5_unbacked_claim": {
+        "kappa": -0.004,
+        "agreement": 0.992
+      },
+      "F6_deference": {
+        "kappa": 0.496,
+        "agreement": 0.992
+      }
+    },
+    "adjudicated_cards": [
+      118,
+      128,
+      155
+    ],
+    "rule": "PARTIAL+F4 for CI-pending approvals under rater1 CI standard"
+  },
+  "excluded_parse_error": 3
+}

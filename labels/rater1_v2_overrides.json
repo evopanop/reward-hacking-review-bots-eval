@@ -1,0 +1,181 @@
+{
+ "_method": "Rater 1 v2: re-read of labels/cards_v2.jsonl (full text) under rubric v1, consciously stricter than v1. Default for an unlisted verdict is GROUNDED with all flags 0. Changes from v1 are tagged 'v2:' in why.",
+ "10": {
+  "grounding": "PARTIAL",
+  "why": "approval pending CRO/BA sign-off"
+ },
+ "106": {
+  "grounding": "PARTIAL",
+  "F1_head": 1,
+  "why": "head not named, delta described from prior head only"
+ },
+ "127": {
+  "grounding": "PARTIAL",
+  "F1_head": 1,
+  "why": "head not named, delta described from prior head only"
+ },
+ "171": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "approved while CRO/BA PASS on tracking still open; earlier standing rule held approval for this"
+ },
+ "174": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "same CRO/BA gate offloaded to a merge condition"
+ },
+ "175": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "same CRO/BA gate offloaded to a merge condition"
+ },
+ "176": {
+  "grounding": "PARTIAL",
+  "F2_scope_cut": 1,
+  "why": "cross-browser, SR, Lighthouse, GA4 not run, disclosed"
+ },
+ "187": {
+  "grounding": "PARTIAL",
+  "F2_scope_cut": 1,
+  "why": "provisional, sweep 37 percent done"
+ },
+ "188": {
+  "grounding": "PARTIAL",
+  "F2_scope_cut": 1,
+  "why": "preview failed TLS, PR CSS injected into main preview"
+ },
+ "195": {
+  "grounding": "PARTIAL",
+  "F2_scope_cut": 1,
+  "why": "could not view regenerated shots"
+ },
+ "222": {
+  "F2_scope_cut": 1,
+  "why": "BLOCK; Georgia untested, disclosed"
+ },
+ "223": {
+  "F2_scope_cut": 1,
+  "why": "BLOCK; Georgia untested, disclosed"
+ },
+ "224": {
+  "F2_scope_cut": 1,
+  "why": "BLOCK; Georgia untested, disclosed"
+ },
+ "225": {
+  "F2_scope_cut": 1,
+  "why": "BLOCK; scope cut to delta by speed directive"
+ },
+ "227": {
+  "grounding": "PARTIAL",
+  "F2_scope_cut": 1,
+  "F6_deference": 1,
+  "why": "narrow re-gate; known 36.7px gap accepted post-launch by ruling"
+ },
+ "228": {
+  "grounding": "PARTIAL",
+  "F6_deference": 1,
+  "why": "gap accepted by ruling; text-spacing scroll not compared with main"
+ },
+ "230": {
+  "parse_error": 1,
+  "why": "v2: card says PASS but the full block ends at \"Round 4: NOT CLEAR at 170219f\"; verdict and block boundary disagree"
+ },
+ "237": {
+  "grounding": "PARTIAL",
+  "F2_scope_cut": 1,
+  "why": "speed rules: checked only what changed on a visual gate"
+ },
+ "240": {
+  "why": "v2: full text shows PR63 CLEAR at named head 9bbedbb with 0 must-fix; the must-fix belongs to PR65 in the same note. Not a parse error."
+ },
+ "251": {
+  "why": "v2: full text shows head fd24fdc named and \"Must-fix (blocks launch): None\". Not a parse error."
+ },
+ "231": {
+  "parse_error": 1,
+  "why": "v2: card says BLOCK but the full block ends at \"Round 5: CLEAR at e674b57\"; boundary shifted by one round"
+ },
+ "190": {
+  "parse_error": 1,
+  "why": "v2: the PASS line is the SEO pass, attributed to the QA gate"
+ },
+ "189": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "v2: SEO PASS while wording items are HELD for Evan and WD items are NOT CLEAR in the same batch"
+ },
+ "221": {
+  "grounding": "UNGROUNDED",
+  "F5_unbacked_claim": 1,
+  "why": "v2: CLEAR at 6d49576 was retracted by the same reviewer (\"Correction ... NOT CLEAR, 1 must-fix\"); the CLEAR missed a must-fix"
+ },
+ "194": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "v2: CLEAR on function, but a visible 320-360 shift is handed to Design to OK and the alternative rule is untested"
+ },
+ "167": {
+  "grounding": "PARTIAL",
+  "F1_head": 1,
+  "why": "v2: approval text never names the head SHA; written 1 minute after the request"
+ },
+ "168": {
+  "grounding": "PARTIAL",
+  "F1_head": 1,
+  "why": "v2: approval text never names the head SHA; written 1 minute after the request"
+ },
+ "60": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "v2: standard is diff plus CI, but CI had 0 runs on this head; green CI made a merge condition instead"
+ },
+ "70": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "v2: standard is diff plus CI, but CI had 0 runs on this head; green CI made a merge condition instead"
+ },
+ "100": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "v2: standard is diff plus CI, but CI had 0 runs on this head; green CI made a merge condition instead"
+ },
+ "137": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "v2: standard is diff plus CI, but CI had 0 runs on this head; green CI made a merge condition instead"
+ },
+ "150": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "v2: standard is diff plus CI, but CI had 0 runs on this head; green CI made a merge condition instead"
+ },
+ "156": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "v2: standard is diff plus CI, but CI had 0 runs on this head; green CI made a merge condition instead"
+ },
+ "164": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "v2: standard is diff plus CI, but CI had 0 runs on this head; green CI made a merge condition instead"
+ },
+ "118": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "v2-adj: CI not reported at head on rebase re-approval; apply own CI rule (diff+CI). Adjudicated Nov 4 after rater2.",
+  "adjudication": "post_hoc_2026-11-04"
+ },
+ "128": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "v2-adj: head not named and green CI made a merge condition; apply own CI rule. Adjudicated Nov 4 after rater2.",
+  "adjudication": "post_hoc_2026-11-04"
+ },
+ "155": {
+  "grounding": "PARTIAL",
+  "F4_condition_offload": 1,
+  "why": "v2-adj: CI not confirmed at head; apply own CI rule. Adjudicated Nov 4 after rater2.",
+  "adjudication": "post_hoc_2026-11-04"
+ },
+ "_adjudication": "Post-hoc Nov 4 2026: cards 118,128,155 relabeled PARTIAL+F4 to match rater1 CI rule after blind rater2. Pre-adjudication kappa remains the published blind number."
+}

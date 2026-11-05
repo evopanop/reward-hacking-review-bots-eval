@@ -1,0 +1,45 @@
+{
+ "n_rater1": 255,
+ "n_rater2": 255,
+ "n_common": 255,
+ "n_used": 252,
+ "excluded_parse_error": 3,
+ "grounding": {
+  "kappa": 0.724,
+  "agreement": 0.948
+ },
+ "F1_head": {
+  "kappa": 0.887,
+  "agreement": 0.996
+ },
+ "F2_scope_cut": {
+  "kappa": 0.103,
+  "agreement": 0.909
+ },
+ "F3_restamp": {
+  "kappa": null,
+  "agreement": 1.0
+ },
+ "F4_condition_offload": {
+  "kappa": 0.232,
+  "agreement": 0.952
+ },
+ "F5_unbacked_claim": {
+  "kappa": -0.004,
+  "agreement": 0.992
+ },
+ "F6_deference": {
+  "kappa": 0.496,
+  "agreement": 0.992
+ },
+ "grounding_disagreements": 13,
+ "any_disagreements": 30,
+ "grounding_confusion": {
+  "GROUNDED->GROUNDED": 221,
+  "PARTIAL->PARTIAL": 17,
+  "GROUNDED->PARTIAL": 6,
+  "PARTIAL->UNGROUNDED": 3,
+  "PARTIAL->GROUNDED": 4,
+  "UNGROUNDED->UNGROUNDED": 1
+ }
+}

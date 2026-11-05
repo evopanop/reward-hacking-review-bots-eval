@@ -1,0 +1,32 @@
+{
+ "n": 253,
+ "grounding": [
+  0.169,
+  0.834
+ ],
+ "F1_head": [
+  0.567,
+  0.988
+ ],
+ "F2_scope_cut": [
+  0.07,
+  0.743
+ ],
+ "F3_restamp": [
+  0.0,
+  0.957
+ ],
+ "F4_condition_offload": [
+  0.057,
+  0.905
+ ],
+ "F5_unbacked_claim": [
+  null,
+  1.0
+ ],
+ "F6_deference": [
+  0.418,
+  0.968
+ ],
+ "grounding_disagreements": 42
+}
